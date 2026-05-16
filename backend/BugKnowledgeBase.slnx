@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BugKnowledgeBase.API/BugKnowledgeBase.API.csproj" />
+  <Project Path="BugKnowledgeBase.Application/BugKnowledgeBase.Application.csproj" />
+  <Project Path="BugKnowledgeBase.Domain/BugKnowledgeBase.Domain.csproj" />
+  <Project Path="BugKnowledgeBase.Infrastructure/BugKnowledgeBase.Infrastructure.csproj" />
+</Solution>

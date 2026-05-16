@@ -1,0 +1,15 @@
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\bin\Release\net10.0\BugKnowledgeBase.Application.deps.json
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\bin\Release\net10.0\BugKnowledgeBase.Application.dll
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\bin\Release\net10.0\BugKnowledgeBase.Application.pdb
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\bin\Release\net10.0\BugKnowledgeBase.Domain.dll
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\bin\Release\net10.0\BugKnowledgeBase.Domain.pdb
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.csproj.AssemblyReference.cache
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.AssemblyInfoInputs.cache
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.AssemblyInfo.cs
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.csproj.CoreCompileInputs.cache
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowl.732094C2.Up2Date
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.dll
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\refint\BugKnowledgeBase.Application.dll
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\BugKnowledgeBase.Application.pdb
+E:\Repos\BaseDeConnaissance\backend\BugKnowledgeBase.Application\obj\Release\net10.0\ref\BugKnowledgeBase.Application.dll
